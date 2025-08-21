@@ -29,4 +29,44 @@ Este é um sistema web de enquetes desenvolvido com **Spring Boot** e **PostgreS
 
 ---
 
+## 📝 Licença
+
+Este projeto está licenciado sob os termos da **GNU General Public License v3.0**.  
+Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+
+## 👤 Autores
+
+**Luiz Miguel Toller Marconatto**  
+Curso de Ciência da Computação – Universidade Franciscana (UFN)  
+
+E-mail: luizmigueltoller@gmail.com  
+GitHub: [@MiguelToller](https://github.com/MiguelToller)
+
+---
+
+**Eduardo Carvalho Ceretta**  
+Curso de Ciência da Computação – Universidade Franciscana (UFN)  
+
+E-mail: Duduceretta@gmail.com  
+GitHub: [@Duduceretta](https://github.com/Duduceretta)
+
+---
+
+**Yuri Alexander**  
+Curso de Ciência da Computação – Universidade Franciscana (UFN)  
+
+E-mail: yuricostamachado7@gmail.com  
+GitHub: [@yuyukiin](https://github.com/yuyukiin)
+
+---
+
+**Pedro Henrique Daroda**  
+Curso de Ciência da Computação – Universidade Franciscana (UFN)  
+
+E-mail: podesdarodas25@gmail.com  
+GitHub: [@pedr0xh](https://github.com/pedr0xh)
+
+
 ## 📂 Estrutura do Projeto
