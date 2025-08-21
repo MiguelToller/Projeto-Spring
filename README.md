@@ -29,4 +29,4 @@ Este é um sistema web de enquetes desenvolvido com **Spring Boot** e **PostgreS
 
 ---
 
-## 📂
+## 📂 Estrutura do Projeto
