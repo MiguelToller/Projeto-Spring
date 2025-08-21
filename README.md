@@ -17,7 +17,7 @@ Este é um sistema web de enquetes desenvolvido com **Spring Boot** e **PostgreS
 
 ## 🧱 Tecnologias Utilizadas
 
-- **Back-end**: Java 23, Spring Boot
+- **Back-end**: Java 21, Spring Boot
   - Spring Web
   - Spring Security (para autenticação)
   - Spring Data JPA (persistência de dados)
