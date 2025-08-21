@@ -67,6 +67,3 @@ Curso de Ciência da Computação – Universidade Franciscana (UFN)
 
 E-mail: podesdarodas25@gmail.com  
 GitHub: [@pedr0xh](https://github.com/pedr0xh)
-
-
-## 📂 Estrutura do Projeto
